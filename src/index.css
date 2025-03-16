@@ -1,0 +1,13 @@
+:root {
+  font-family: "JetBrains Mono", monospace;
+  line-height: 1.5;
+  color: #000;
+  background-color: #FEF9C3;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 100vh;
+}
